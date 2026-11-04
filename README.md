@@ -102,7 +102,7 @@ Learned how to setup a VirtualBox, a Virtual Machine. How to adjust the VM memor
 **Enoch Muza**\
 Cybersecurity Intern B084
 
-LinkedIn: [www.linkedin.com/in/enoch-m-04aba5432](www.linkedin.com/in/enoch-m-04aba5432)
+LinkedIn: [www.linkedin.com/in/enoch-m-04aba5432](https://www.linkedin.com/in/enoch-m-04aba5432)
 
 ---
 
